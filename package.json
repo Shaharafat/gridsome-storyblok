@@ -1,0 +1,14 @@
+{
+  "name": "gridsome-multilanguage-website",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gridsome": "^0.7.0",
+    "gridsome-source-storyblok": "^2.0.0"
+  }
+}
